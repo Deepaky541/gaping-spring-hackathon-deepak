@@ -27,7 +27,7 @@ p {
 }
 
 .sent {
-  background-color: yellow;
+  background-color: rgb(249,212,36);
   color:black;
   border-top-right-radius: 1000px;
   flex-direction: row-reverse;
@@ -38,7 +38,7 @@ p {
 
 .received {
   border: 1px solid lightgray;
-  background-color: yellow;
+  background-color: rgb(249,212,36);
   color: black;
   border-top-left-radius: 1000px;
   float: left;
